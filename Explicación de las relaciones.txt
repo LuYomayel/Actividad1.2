@@ -1,0 +1,3 @@
+1:1 datos personales y datos de contacto. Por razones de agilidad a la hora de buscar los datos de contacto no quiero tener esta información junto a los datos personales.
+1:N Clubes de handball y jugadores de cada club.
+N:N Alumnos y materias. Un alumno puede estar inscripto a muchas materias. Por otro lado, una materia puede tener mucho alumnos.
